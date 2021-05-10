@@ -1,0 +1,13 @@
+{
+    "prefix":"rr!",
+    "timezone": "BST",
+    "logger": [],
+    "admin":[],
+    "headers":
+        {
+            "x-tenant":"", 
+            "Authorization": ""
+        },
+    "version": "2.3.4",
+	"token":""
+}

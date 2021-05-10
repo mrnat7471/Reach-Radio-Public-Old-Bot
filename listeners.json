@@ -1,0 +1,23 @@
+{
+  "icestats": {
+    "admin": "development@reachradio.co.uk",
+    "host": "stream.reachradio.co.uk",
+    "location": "Earth",
+    "server_id": "Icecast 2.4.3",
+    "server_start": "Wed, 03 Mar 2021 23:19:34 +0000",
+    "server_start_iso8601": "2021-03-03T23:19:34+0000",
+    "source": {
+      "genre": "Pop",
+      "listener_peak": 35,
+      "listeners": 0,
+      "listenurl": "https://stream.reachradio.co.uk",
+      "server_description": "All The Hits - The Station Made For Gaming",
+      "server_name": "Reach Radio",
+      "server_type": "audio/mpeg",
+      "stream_start": "Mon, 12 Apr 2021 04:38:53 +0100",
+      "stream_start_iso8601": "2021-04-12T04:38:53+0100",
+      "title": null,
+      "dummy": null
+    }
+  }
+}
